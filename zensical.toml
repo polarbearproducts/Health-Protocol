@@ -44,13 +44,13 @@ Copyright &copy; 2026 polarbearproducts
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Home" = "index.md" },
-#   { "Eating Protocol" = "eating_protocol.md" },
-    { "Tea Protocol" = "tea_v2.md" },
-    { "Exercise Protocol" = "exercise_protocol.md" },
-    { "Appendix" = "ref.md" },
-# ]
+nav = [
+   { "Home" = "index.md" },
+   { "Eating Protocol" = "eating_protocol.md" },
+   { "Tea Protocol" = "tea_v2.md" },
+   { "Exercise Protocol" = "exercise_protocol.md" },
+   { "Appendix" = "ref.md" },
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of

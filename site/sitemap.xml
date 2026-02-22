@@ -1,3 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+        <loc>https://polarbearproducts.github.io/Health-Protocol/</loc>
+      </url>
+      <url>
+        <loc>https://polarbearproducts.github.io/Health-Protocol/eating_protocol/</loc>
+      </url>
+      <url>
+        <loc>https://polarbearproducts.github.io/Health-Protocol/tea_v2/</loc>
+      </url>
+      <url>
+        <loc>https://polarbearproducts.github.io/Health-Protocol/exercise_protocol/</loc>
+      </url>
+      <url>
+        <loc>https://polarbearproducts.github.io/Health-Protocol/ref/</loc>
+      </url>
 </urlset>

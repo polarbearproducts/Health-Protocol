@@ -1,6 +1,8 @@
 # Tea & Suppliments for Cardiovascular Benefits
 
-To maximize your results, it is important to use the correct **botanical parts** of the plant. Studies are very specific about this because the active compounds (like anthocyanins or oleuropein) are concentrated in particular areas.
+The majority of the following advice was AI generated, while this has been partially validated, some inaccurarcies may still exist.
+
+To maximize results, it is important to use the correct **botanical parts** of the plant. Studies are very specific about this because the active compounds (like anthocyanins or oleuropein) are concentrated in particular areas.
 
 ## 7-Day Heart-Healthy Tea Rotation
 

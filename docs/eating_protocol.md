@@ -16,25 +16,38 @@ Get started with these tips:
     * For dinners - remove carbs, breads and starchy veggies  
 * Revisit this site for updates and reminders or to suggest improvements
   
-1. Drink liquids at least 15.5 cups (3.7 liters) of fluids  
-    * Coffee  
-    * Teas (see Tea Protocol)  
-    * Water
-1. Limit salt intake / avoid excess salt  
-    * Swap salted nuts with unsalted  
-    * Buy canned veggies, beans and sauces with no salt added
-        * It is typical to add salt while cooking with these products but this allow *you* to control the salt amount
-1. Each 30 different plants, seeds and nuts a week / “Eat the color spectrum of veggies”  
-    * Not just fruits and veggies that count, you can include grains, nuts, seeds, herbs, and spices, too  
+1. Drink liquids at least 15.5 cups (3.7 liters) of fluids
+
+* Coffee  
+* Teas (see Tea Protocol)  
+* Water
+
+1. Limit salt intake / avoid excess salt
+
+* Swap salted nuts with unsalted  
+* Buy canned veggies, beans and sauces with no salt added
+  * It is typical to add salt while cooking with these products but this allow *you* to control the salt amount
+
+1. Each 30 different plants, seeds and nuts a week / “Eat the color spectrum of veggies”
+
+* Not just fruits and veggies that count, you can include grains, nuts, seeds, herbs, and spices, too  
+
 1. Eat Clean - whole foods. Avoid ultra-processed foods, including any food that has more than 5 ingredients
+
 1. Eat light dinners (salad), eliminate starchy carbs at night (rice, pasta, potatoes, breads)  
-    * Eat low-glycemic index foods  
+
+* Eat low-glycemic index foods  
+
 1. Increase fiber intake, generally wholegrains, whole fruits, pulses/beans, nuts and seeds  
-    * I swap to Barley for Oatmeal for breakfast in order to reduce Glucose impacts  
+
+* I swap to Barley for Oatmeal for breakfast in order to reduce Glucose impacts  
+
 1. Time of Day Eating
-    * Limit eating hours to 10 hours per day
-    * Don't eat after 9 pm (water, coffee, tea is ok)
-    * Don't eat starchy/high-sugar snacks/drinks after 3 pm (Have that piece of See's Candy before)
+
+* Limit eating hours to 10 hours per day
+* Don't eat after 9 pm (water, coffee, tea is ok)
+* Don't eat starchy/high-sugar snacks/drinks after 3 pm (Have that piece of See's Candy before)
+
 1. Do not eat  
 
 * fried foods  

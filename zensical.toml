@@ -11,7 +11,7 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Documentation"
+site_name = "Health-Protocol"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -34,7 +34,7 @@ site_author = "<your name here>"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2026 The authors
+Copyright &copy; 2026 polarbearproducts
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -57,7 +57,7 @@ Copyright &copy; 2026 The authors
 #
 # Read more: https://zensical.org/docs/customization/#additional-css
 #
-#extra_css = ["stylesheets/extra.css"]
+extra_css = ["stylesheets/extra.css"]
 
 # With the `extra_javascript` option you can add your own JavaScript to your
 # project to customize the behavior according to your needs.
@@ -73,7 +73,7 @@ Copyright &copy; 2026 The authors
 [project.theme]
 
 # change this to "classic" to use the traditional Material for MkDocs look.
-#variant = "classic"
+variant = "classic"
 
 # Zensical allows you to override specific blocks, partials, or whole
 # templates as well as to define your own templates. To do this, uncomment
@@ -301,7 +301,7 @@ toggle.name = "Switch to light mode"
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
 #[[project.extra.social]]
-#icon = "fontawesome/brands/github"
+icon = "fontawesome/brands/github"
 #link = "https://github.com/user/repo"
 
 

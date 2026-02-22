@@ -1,0 +1,61 @@
+site_name: 'Health-Protocol'
+
+# Repository Information
+repo_name: 'polarbearproducts/Health-Protocol'
+repo_url: 'https://github.com/polarbearproducts/Health-Protocol.git'
+docs_dir: 'docs'
+remote_branch: 'gh-pages'
+remote_name: 'origin'
+
+nav:
+    - Home: index.md
+    - Eating Protocol: eating_protocol.md
+    - Tea Protocol: tea_v2.md
+    - Exercise Protocol: exercise_protocol.md
+    - Appendix: ref.md
+
+# Theme
+theme:
+  name: material
+  font:
+    text: 'Manrope'
+    code: 'Roboto Mono'
+  features:
+    - tabs
+    - toc.integrate
+    - navigation.top
+
+#standard colors
+extra_css:
+  - stylesheets/extra.css
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - md_in_html
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.details:
+  - pymdownx.tasklist:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+# Plug-ins
+plugins:
+  - search
+  - caption
+  - toggle-sidebar:
+      toggle_button: toc
+      theme: material
+  - enumerate-headings
+  - table-reader
+  - git-revision-date-localized
+  - git-authors
+
+copyright: Copyright &copy; 2026

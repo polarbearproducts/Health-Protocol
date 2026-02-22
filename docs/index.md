@@ -1,6 +1,6 @@
 # Health-Protocol
 
-Our personal health protocol, for your entertainment. Best viewed from the GitHub Pages site:
+Our personal health protocol, for your entertainment. Best viewed from the GitHub Pages site: <https://polarbearproducts.github.io/Health-Protocol/>
 
 
 

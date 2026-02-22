@@ -1,6 +1,6 @@
 # Eating Protocol - based off of Mediterranean Lifestyle (Diet)  
   
-Get started with these tips:
+## General Tips
 
 * Start small and build into this protocol
 * Forgive yourself for the rare, odd missed day, do better the next day
@@ -16,39 +16,39 @@ Get started with these tips:
     * For dinners - remove carbs, breads and starchy veggies  
 * Revisit this site for updates and reminders or to suggest improvements
   
-1. Drink liquids at least 15.5 cups (3.7 liters) of fluids
+### 1. Drink liquids at least 15.5 cups (3.7 liters) of fluids
 
 * Coffee  
 * Teas (see Tea Protocol)  
 * Water
 
-1. Limit salt intake / avoid excess salt
+### 2. Limit salt intake / avoid excess salt
 
 * Swap salted nuts with unsalted  
 * Buy canned veggies, beans and sauces with no salt added
   * It is typical to add salt while cooking with these products but this allow *you* to control the salt amount
 
-1. Each 30 different plants, seeds and nuts a week / “Eat the color spectrum of veggies”
+### 3. Each 30 different plants, seeds and nuts a week / “Eat the color spectrum of veggies”
 
 * Not just fruits and veggies that count, you can include grains, nuts, seeds, herbs, and spices, too  
 
-1. Eat Clean - whole foods. Avoid ultra-processed foods, including any food that has more than 5 ingredients
+### 4. Eat Clean - whole foods. Avoid ultra-processed foods, including any food that has more than 5 ingredients
 
-1. Eat light dinners (salad), eliminate starchy carbs at night (rice, pasta, potatoes, breads)  
+### 5. Eat light dinners (salad), eliminate starchy carbs at night (rice, pasta, potatoes, breads)  
 
 * Eat low-glycemic index foods  
 
-1. Increase fiber intake, generally wholegrains, whole fruits, pulses/beans, nuts and seeds  
+### 6. Increase fiber intake, generally wholegrains, whole fruits, pulses/beans, nuts and seeds  
 
 * I swap to Barley for Oatmeal for breakfast in order to reduce Glucose impacts  
 
-1. Time of Day Eating
+### 7. Time of Day Eating
 
 * Limit eating hours to 10 hours per day
 * Don't eat after 9 pm (water, coffee, tea is ok)
 * Don't eat starchy/high-sugar snacks/drinks after 3 pm (Have that piece of See's Candy before)
 
-1. Do not eat  
+### 8. Do not eat  
 
 * fried foods  
 * processed meats, spam, ham, bacon, jerky, hot dogs, sausage  
@@ -80,7 +80,7 @@ Get started with these tips:
   * extracts of rosemary  
   * calcium propionate  
 
-1. Limit
+### 9. Limit
 
 * sweets
 * one exception is high content coco powder 80% or more chocolate, but limit to 1 oz  
@@ -96,12 +96,12 @@ Get started with these tips:
 * breads  
   * Breads high in fiber maybe an exception, dark rye and sourdough rye
 
-1. Avoid foods - these are bad for heart health (I’ve limited these to no more than once a month, typically a celebration or social event)  
+### 10. Avoid foods - these are bad for heart health (I’ve limited these to no more than once a month, typically a celebration or social event)  
 
 * red meat/beef  
 * pork  
 
-1. Eat foods  
+### 11. Eat foods  
 
 * avocado  
 * EVOO (up to 3 tablespoons per day)  
@@ -158,7 +158,7 @@ Get started with these tips:
   * Pistachios  
   * Sunflower seeds  
 
-1. By the numbers, eat:
+### 12. By the numbers, eat
 
 * Daily Average Macro: 37% Fat, 43% Carbs, 20% Protein  
 * Shoot for 140-160 g protein per day while strength training (1.4-1.6 gram protein for each KG of body weight)  
@@ -184,7 +184,7 @@ Get started with these tips:
     * unprocessed wheats  
     * bran cereal  
 
-1. Daily Supplements  
+### 13. Daily Supplements
 
 * At least 15 ml/3 tsp of Apple Cider Vinegar per day  
   * Some recommendations include 1 tablespoon before each meal  
@@ -200,4 +200,3 @@ Get started with these tips:
 * Vitamin K2, (MK4 1000 mcg, MK7 180 mcg from MenaQ7®)
 * Iodine supplement (325 mcg)
 * Aged Garlic Extract (1000 mg)
-  

@@ -1,6 +1,6 @@
-# Tea & Suppliments for Cardiovascular Benefits
+# Tea & Supplements for Cardiovascular Benefits
 
-The majority of the following advice was AI generated, while this has been partially validated, some inaccurarcies may still exist.
+The majority of the following advice was AI generated, while this has been partially validated, some inaccuracies may still exist.
 
 To maximize results, it is important to use the correct **botanical parts** of the plant. Studies are very specific about this because the active compounds (like anthocyanins or oleuropein) are concentrated in particular areas.
 
@@ -27,7 +27,7 @@ This schedule focuses on the **Hibiscus Triple Dose** while rotating secondary t
 * **Why:** These are leathery leaves, cold water simply isn't "aggressive" enough to pull out the **Oleuropein** or **Crataegus flavonoids**.
 * **Method:** For 8 oz, steep 2.5g to 3.0g, steep in **185F** water for **20 minutes**.
 * **To Drink Cold:** Once the 20-minute steep is done, pour the "concentrate" over a large glass of ice.
-* **To Store**: Let cool to room temp, add stablizing citrus, seal in dark jar for up to 5 days
+* **To Store**: Let cool to room temp, add stabilizing citrus, seal in dark jar for up to 5 days
 
 ##### Hawthorne Leaf and Flower (does not apply to berries)
 
@@ -40,12 +40,13 @@ This schedule focuses on the **Hibiscus Triple Dose** while rotating secondary t
 * **Vessel Material:** Use **glass or ceramic**. Avoid steeping for 30 minutes in plastic or low-grade stainless steel to ensure no metallic off-flavors migrate into your heart-healthy brew.
 
 ##### Heart Trio Blend
+
 * **What** When you blend these three, you are engaging three distinct biological mechanisms:
   * Hibiscus: Acts as a natural ACE inhibitor, helping to relax the blood vessels and manage fluid balance (blood pressure).
   * Olive Leaf: Provides Oleuropein, which prevents the oxidation of LDL cholesterol—a key step in maintaining clean, slick arterial walls.
   * Hawthorn: Rich in Vitexin, it improves the contractility of the heart muscle and enhances blood flow through the coronary arteries.
-* **Why:** To get these three very different plant materials to release their nutrients at the same time, follow this specific ratio and temperature. 
-* **Method:** 
+* **Why:** To get these three very different plant materials to release their nutrients at the same time, follow this specific ratio and temperature.
+* **Method:**
   * For 10-12 oz, steep 1 g of each Olive Leaf, Hawthorn Leaf and Hibiscus, steep in **185F** water for **20 minutes**.
   * Covered use an external hotplate to keep temp
   * Addition of stablizing citrus is required after cooling to room temperature
@@ -56,15 +57,15 @@ This schedule focuses on the **Hibiscus Triple Dose** while rotating secondary t
 
 When cold brewing, you generally want to increase the tea-to-water ratio slightly compared to hot brewing. Because cold water is less "aggressive" at extracting flavor, a higher concentration of tea ensures a rich, umami-forward cup without the bitterness.  Cold brewing green tea extracts significantly less caffeine while still pulling out high levels of EGCG (epigallocatechin gallate). If you are sensitive to the "jitters" but want the cardiovascular benefits, this is actually the superior method.
 
-* **Why:** Cold brewing Green Tea preserves the **EGCG** and lowers caffeine (better for BP). Hibiscus cold brews well if given enough time. 
+* **Why:** Cold brewing Green Tea preserves the **EGCG** and lowers caffeine (better for BP). Hibiscus cold brews well if given enough time.
 * **Method:**
-  * **Hibiscus:** 
-    * Steep in the fridge for **12 hours** (overnight). 
+  * **Hibiscus:**
+    * Steep in the fridge for **12 hours** (overnight).
     * **Ratio:** Use **1.25g to 1.5g** of dried hibiscus per 8 oz (3 tea bags per 16 oz). Use 1.5x the amount of dried flowers you would use for hot tea to ensure the same potency. 
-    * Add acidic stablizer after removing tea leaves keep beneficial for up to 48 hours in a dark/covered jar
+    * Add acidic stabilizer after removing tea leaves keep beneficial for up to 48 hours in a dark/covered jar
       * Fill entire jar to reduce oxidation
       * Remove tea bags/leaves after steeping time to avoid bitterness and spoilage
-  * **Soy-Matcha Green Tea:** Steep in the fridge for **6–8 hours** 
+  * **Soy-Matcha Green Tea:** Steep in the fridge for **6–8 hours**
     * Use a jar that has a good sealing lid matcha can be shaken (vs cold whisked). Alternatively use frother to mix (makes mess)
     * Standard Strength: 1 teaspoon (approx. 2g), Strong/Ceremonial: 1.5 to 2 teaspoons (3–4g) per 8 oz
     * Use Soy Milk, without additives, for best outcome. Cow milk can also be used. Avoid Almond milk.
@@ -76,7 +77,7 @@ When cold brewing, you generally want to increase the tea-to-water ratio slightl
 * **Method:** I recommend brewing your first cup of the day **Hot** (steep 10 mins) to ensure maximum anthocyanin extraction. If you hate hot tea in the morning, use the flash-chill method mentioned above.
 * Water temperature to **194F**. Hibiscus is hardy and requires higher heat to extract the anthocyanins responsible for blood pressure benefits.
 
-#### Stablization
+#### Stabilization
 
 For all the teas above, remember to add a **squeeze of lemon**. Whether the tea is hot or cold, the Vitamin C stabilizes the antioxidants, preventing them from being destroyed by your stomach acid before they can reach your arteries. Citrus also allows extending the storage time for cold brew or flash-chilled methods.
 
@@ -95,7 +96,7 @@ For an **8 oz cup**, here are the recommended amounts:
 
 #### **Perfect Stabilization Strategy**
 
-##### Citrus also allows batch prep the **7-Day Heart-Healthy Rotation**, the best approach is a combination:
+##### Citrus also allows batch prep the **7-Day Heart-Healthy Rotation**, the best approach is a combination
 
 * **For the Batch Prep (Stability):** Use **Lemon or Lime** because the high citric acid content keeps the brew stable in the fridge for 2–3 days.
 * **Just Before Drinking (Absorption):** If you used a low-acid fruit like orange for flavor, adding a tiny pinch of pure **ascorbic acid powder** (or a fresh squeeze of orange) right before you drink will give you that final boost in absorption.
@@ -106,7 +107,7 @@ For an **8 oz cup**, here are the recommended amounts:
 | --- | --- | --- |
 | **Below 158F** | **Minimal Loss** | Safe zone. Perfect for adding citrus to your cold brews or slightly cooled green tea. |
 | **159F to 185F** | **Moderate Loss** | Significant degradation begins after 5–10 minutes. This is why we wait for "Hot Prep" to cool slightly. |
-| **186F to 212F** | **Rapid Loss** | Boiling water can destroy up to **25-50%** of the Vitamin C in citrus juice almost 
+| **186F to 212F** | **Rapid Loss** | Boiling water can destroy up to **25-50%** of the Vitamin C in citrus juice almost
 
 ### Weekly Batch Schedule
 
@@ -123,7 +124,7 @@ To keep your **7-Day Heart-Healthy Rotation** efficient and ensure you’re gett
 
 * **Prep for Mon/Wed:**
 * **Hibiscus:** Cold brew 2 x 16 oz (4 servings). Hibiscus stays potent longer, so a Sunday batch easily lasts through Monday/Tuesday. Make sure to add citrus after removing teabags brewing.
-* **Olive Leaf:** Hot prep 16 oz using the **Clinical Protocol**. Store in an airtight glass jar with acidic stablizer once cooled.
+* **Olive Leaf:** Hot prep 16 oz using the **Clinical Protocol**. Store in an airtight glass jar with acidic stabilizer once cooled.
 
 #### **Session 3: Tuesday Morning**
 
@@ -136,14 +137,15 @@ To keep your **7-Day Heart-Healthy Rotation** efficient and ensure you’re gett
 * **Hawthorn:** Hot prep 16 oz using the **Clinical Protocol**. Store in an airtight glass jar with acidic stablizer once cooled.
 
 #### **Session 5: Friday Morning**
-* **Matcha Green Tea:** Cold brew 8 oz (1 serving) for 6 - 8 hours, using same day. 
+
+* **Matcha Green Tea:** Cold brew 8 oz (1 serving) for 6 - 8 hours, using same day.
 
 ## **Golden Rules for Your Batch Prep**
 
 1. **Fill to the Brim Rule:** When storing your cold brew in the fridge, use jars that match your batch size. Minimal air at the top of the jar means minimal oxidation.
 2. **Use to Smallest Jar Rule:** When taking a serving from a large jar, place the remaining for storage in a smallest container it will fit into reduce trapped air and reduce oxidation.
 3. **The Glass-Only Rule:** Since we are using a **Clinical Protocol**, avoid plastic containers. Plastic can leach chemicals over a 3-day storage period, especially if you pour the tea in while it's still warm.
-4. **Label Your Lids:** Use a dry-erase marker on your jar lids to write the **date of prep**. 
+4. **Label Your Lids:** Use a dry-erase marker on your jar lids to write the **date of prep**.
 
 ### Checklist for Buying
 
@@ -154,7 +156,7 @@ To keep your **7-Day Heart-Healthy Rotation** efficient and ensure you’re gett
 * **Olive Leaf:** Look for **dried, whole, or crushed leaves** (Olea europaea). The oleuropein content is what matters; avoid olive fruit teas which lack this compound.
 * **Hawthorn:** Studies suggest a **combination of leaf and flower** (Crataegi folium cum flore) is often more effective than just the berries, as the leaves/flowers contain higher concentrations of flavonoids.
 
-In clinical research, scientists often use specific standardized extracts or reputable commercial brands to ensure that the levels of active compounds are consistent. The following brands and specific standardized extracts have been directly used or identified in major clinical trials for blood pressure:
+In clinical research, scientists often use specific standardized extracts or reputable commercial brands to ensure that the levels of active compounds are consistent. The following brands and specific standardized extracts have been directly used or identified in major clinical trials for blood pressure
 
 #### 1. Hibiscus (*Hibiscus sabdariffa*)
 
@@ -179,6 +181,7 @@ In clinical research, scientists often use specific standardized extracts or rep
 * **Note:** It is typically sold as a supplement, brand name **Special Extract WS 1442**, rather than a loose tea, because the specific flavonoid concentration is difficult to maintain in home-brewed tea.
 
 #### Purchase Summary
+
 If you can't find the exact clinical brand, look for these Clinical Grade markers on the packaging to ensure you are getting the dosage used in the studies:
 
 | Tea Type | What to Look for on the Label |
@@ -213,19 +216,21 @@ When paired with your tea rotation, the following foods and supplements create a
 
 To maximize these supplements alongside your tea:
 
-1. **Morning:** With your hot Hibiscus Tea, take **D3/K2** and **Aged Garlic** with a meal containing healthy fats (avocado or eggs) to ensure the vitamins are absorbed. 
+1. **Morning:** With your hot Hibiscus Tea, take **D3/K2** and **Aged Garlic** with a meal containing healthy fats (avocado or eggs) to ensure the vitamins are absorbed.
 2. **Mid-Day:** Drink your **Tea** with **Citrus Juice** to boost catechin absorption. Drink Pomegranate Juice.
-3. **Evening:** Drink your **Hibiscus Tea**. 
+3. **Evening:** Drink your **Hibiscus Tea**.
 4. Swish with plain water immediately after drinking Hibiscus tea to prevent damage to tooth Enamel.
-5. Eat **150 mg to 250 mg** of calcium with non-milk-matcha teas to bind to oxalates, to reduce the risk of developing kidney stones. This calcium is sacraficial and should not be counted towards daily nutritional counts. (calories and other nutriants do) The matcha cold-brewed with milk do not require this addition.
-  * 1 oz Aged Gouda is ~225 mg per serving
-  * 6 oz Greek Yogurt has ~195 mg per serving
-  * 1/2 oz Parmesan has ~200 mg per serving
-  * 6 oz Feta has ~ 210 mg per serving
-  * 3 oz Ricotta has ~ 250 mg per serving
-5. Calcium and iron Levels, drink tea 90 mins away from meals. Tea will prevent absorbsion of minerals, does not apply the the sacraficial calcium above.
-6. Don't drink Matcha or Olive Leaf on a 100% empty stomach.
-7. Drink 8 oz of plain water for every 2 cups of tea to flush oxalates.
+5. Eat **150 mg to 250 mg** of calcium with non-milk-matcha teas to bind to oxalates, to reduce the risk of developing kidney stones. This calcium is sacrificial and should not be counted towards daily nutritional counts. (calories and other nutrients do) The matcha cold-brewed with milk do not require this addition.
+
+* 1 oz Aged Gouda is ~225 mg per serving
+* 6 oz Greek Yogurt has ~195 mg per serving
+* 1/2 oz Parmesan has ~200 mg per serving
+* 6 oz Feta has ~ 210 mg per serving
+* 3 oz Ricotta has ~ 250 mg per serving
+
+6. Calcium and iron Levels, drink tea 90 mins away from meals. Tea will prevent absorption of minerals, does not apply the the sacrificial calcium above.
+7. Don't drink Matcha or Olive Leaf on a 100% empty stomach.
+8. Drink 8 oz of plain water for every 2 cups of tea to flush oxalates.
 
 ### Shopping List
 
@@ -277,7 +282,7 @@ Research into carotid artery thickening specifically used **POM Wonderful** juic
 | **Vitamin D3** | **Nature Made** or **Thorne** | **USP Verified** or **NSF** |
 | **Pomegranate** | **Life Extension** or **POM Wonderful** | "Standardized Punicalagins" |
 
-### Suppliments Effects in Structural Reversal Power Stack 
+### Suppliments Effects in Structural Reversal Power Stack
 
 #### 1. Calcium Scavengers (Vitamin K2 + D3)
 

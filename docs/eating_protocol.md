@@ -16,101 +16,101 @@
     * For dinners - remove carbs, breads and starchy veggies  
 * Revisit this site for updates and reminders or to suggest improvements
   
-### 1. Drink liquids at least 15.5 cups (3.7 liters) of fluids
+1. Drink liquids at least 15.5 cups of fluids
 
-* Coffee  
-* Teas (see Tea Protocol)  
-* Water
+   * Coffee  
+   * Teas (see Tea Protocol)  
+   * Water
 
-### 2. Limit salt intake / avoid excess salt
+2. Limit salt intake / avoid excess salt
 
-* Swap salted nuts with unsalted  
-* Buy canned veggies, beans and sauces with no salt added
-  * It is typical to add salt while cooking with these products but this allow *you* to control the salt amount
+   * Swap salted nuts with unsalted  
+   * Buy canned veggies, beans and sauces with no salt added
+   * It is typical to add salt while cooking with these products but this allow *you* to control the salt amount
 
-### 3. Each 30 different plants, seeds and nuts a week / “Eat the color spectrum of veggies”
+3. Each 30 different plants, seeds and nuts a week / Eat the color spectrum of veggies
 
-* Not just fruits and veggies that count, you can include grains, nuts, seeds, herbs, and spices, too  
+   * Not just fruits and veggies that count, you can include grains, nuts, seeds, herbs, and spices, too  
 
-### 4. Eat Clean - whole foods. Avoid ultra-processed foods, including any food that has more than 5 ingredients
+4. Eat Clean - whole foods. Avoid ultra-processed foods, including any food that has more than 5 ingredients
 
-### 5. Eat light dinners (salad), eliminate starchy carbs at night (rice, pasta, potatoes, breads)  
+5. Eat light dinners (salad), eliminate starchy carbs at night (rice, pasta, potatoes, breads)  
 
-* Eat low-glycemic index foods  
+   * Eat low-glycemic index foods  
 
-### 6. Increase fiber intake, generally wholegrains, whole fruits, pulses/beans, nuts and seeds  
+6. Increase fiber intake, generally wholegrains, whole fruits, pulses/beans, nuts and seeds  
 
-* I swap to Barley for Oatmeal for breakfast in order to reduce Glucose impacts  
+   * I swap to Barley for Oatmeal for breakfast in order to reduce Glucose impacts  
 
 ### 7. Time of Day Eating
 
-* Limit eating hours to 10 hours per day
-* Don't eat after 9 pm (water, coffee, tea is ok)
-* Don't eat starchy/high-sugar snacks/drinks after 3 pm (Have that piece of See's Candy before)
+    * Limit eating hours to 10 hours per day
+    * Don't eat after 9 pm (water, coffee, tea is ok)
+    * Don't eat starchy/high-sugar snacks/drinks after 3 pm (Have that piece of See's Candy before)
 
 ### 8. Do not eat  
 
-* fried foods  
-* processed meats, spam, ham, bacon, jerky, hot dogs, sausage  
-* processed shrimp (lots of salt in processing)  
-* canned soup
-* pizza  
-* flour tortillas and fried tortillas (corn or flour, either one of these is tough for me to avoid)  
-* refried beans  
-* fruit juices  
-* Ingredients that indicate ultra-processed foods & additives:  
-  * ++High-fructose corn syrup++  
-  * Butylated hydroxyanisole (BHA) and butylated hydroxytoluene (BHT)  
-  * Carrageenan  
-  * ++Food dyes++  
-  * ++Hydrogenated oils++  
-  * ++Monosodium glutamate (MSG)++  
-  * Potassium bromate  
-  * **Sodium nitrate and sodium nitrite.**  
-  * Sulfites (like sulfur dioxide, potassium bisulfite, sodium bisulfite and sodium sulfite).  
-  * potassium nitrate  
-  * **potassium sorbates**  
-  * potassium metabisulfite  
-  * acetates  
-  * tocopherols & alpha-tocopherol  
-  * **sodium ascorbate**  
-  * **erythorbates**  
-  * citric acid  
-  * **phosphoric acid**  
-  * extracts of rosemary  
-  * calcium propionate  
+    * fried foods  
+    * processed meats, spam, ham, bacon, jerky, hot dogs, sausage  
+    * processed shrimp (lots of salt in processing)  
+    * canned soup
+    * pizza  
+    * flour tortillas and fried tortillas (corn or flour, either one of these is tough for me to avoid)  
+    * refried beans  
+    * fruit juices  
+    * Ingredients that indicate ultra-processed foods & additives:  
+    * ++High-fructose corn syrup++  
+    * Butylated hydroxyanisole (BHA) and butylated hydroxytoluene (BHT)  
+    * Carrageenan  
+    * ++Food dyes++  
+    * ++Hydrogenated oils++  
+    * ++Monosodium glutamate (MSG)++  
+    * Potassium bromate  
+    * **Sodium nitrate and sodium nitrite.**  
+    * Sulfites (like sulfur dioxide, potassium bisulfite, sodium bisulfite and sodium sulfite).  
+    * potassium nitrate  
+    * **potassium sorbates**  
+    * potassium metabisulfite  
+    * acetates  
+    * tocopherols & alpha-tocopherol  
+    * **sodium ascorbate**  
+    * **erythorbates**  
+    * citric acid  
+    * **phosphoric acid**  
+    * extracts of rosemary  
+    * calcium propionate  
 
 ### 9. Limit
 
-* Sweets
-  * one exception is high content coco powder 80% or more chocolate, but limit to 1 oz
-* Dairy
-  * Dairy fits in the limit category, limit overall to 2 servings per day
-  * Servings: 1 cup Greek yogurt, 1.5 oz cheese
-  * The majority of this amount is taken up by the sacrificial cheese (1 oz) in the tea protocol
-  * Most websites promote 'non-fat' dairy versions, I believe this is an error as it is a throwback to 'all fat is bad' which got us into the over-carb diets we have today. Back when the MD study was being performed 'fat-free' dairy didn't exist.
-* Crackers  
-* Condiments / sauces  
-* Salad dressings (Make your own EVOO, Vinegar, Mustard)  
-* Canned veggies (or change to no-salt)
-* Canned beans (or use dried if no-salt canned are not available)
-* Canned sauces (tomato, pasta, etc) (or get no-salt added)  
-* Pickles  
-* Breads  
+    * Sweets
+      * one exception is high content coco powder 80% or more chocolate, but limit to 1 oz
+    * Dairy
+      * Dairy fits in the limit category, limit overall to 2 servings per day
+      * Servings: 1 cup Greek yogurt, 1.5 oz cheese
+      * The majority of this amount is taken up by the sacrificial cheese (1 oz) in the tea protocol
+      * Most websites promote 'non-fat' dairy versions, I believe this is an error as it is a throwback to 'all fat is bad' which got us into the over-carb diets we have today. Back when the MD study was being performed 'fat-free' dairy didn't exist.
+    * Crackers  
+    * Condiments / sauces  
+    * Salad dressings (Make your own EVOO, Vinegar, Mustard)  
+    * Canned veggies (or change to no-salt)
+    * Canned beans (or use dried if no-salt canned are not available)
+    * Canned sauces (tomato, pasta, etc) (or get no-salt added)  
+    * Pickles  
+    * Breads  
 
 ### 10. Avoid Foods
 
 These are bad for heart health, I’ve limited these to no more than once a month; however, in practice it is less than once a quarter.  
 
-* red meat/beef  
-* pork  
+    * red meat/beef  
+    * pork  
 
 ### 11. Eat foods  
 
-* avocado  
-* EVOO (up to 3 tablespoons per day)  
-* Vinegars (3 tablespoons per day)  
-* whole grains  
+    * avocado  
+    * EVOO (up to 3 tablespoons per day)  
+    * Vinegars (3 tablespoons per day)  
+    * whole grains  
   * ground flax seed 2 tablespoons  
   * hemp hearts 2 tablespoons  
   * chia seeds 1 tablespoons (high calorie food!!)  

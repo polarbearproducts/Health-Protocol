@@ -10,12 +10,11 @@
 * Serve fresh fruit for dessert & snacks  
 * Make one meal per day vegetarian
 * By the plate visual: 50% veggies / fruits, 23% grains, 25% protein & legumes, 2% fat
-  * The ‘fat’ should not be really visible; most comes in the form of EVOO  
+    * The ‘fat’ should not be really visible; most comes in the form of EVOO  
     * 2% visible fat may come from fatty foods - avocado, goat cheese, seeds
-    * Note this is *not* the macros but how a meal plate should look  
-    * For dinners - remove carbs, breads and starchy veggies  
+* Note this is *not* the macros but how a meal plate should look  
 * Revisit this site for updates and reminders or to suggest improvements
-  
+
 1. Drink liquids at least 15.5 cups of fluids
 
    * Coffee  

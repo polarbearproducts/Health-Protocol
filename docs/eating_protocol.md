@@ -15,29 +15,29 @@
 * Note this is *not* the macros but how a meal plate should look  
 * Revisit this site for updates and reminders or to suggest improvements
 
-1. Drink liquids at least 15.5 cups of fluids
+1.  Drink liquids at least 15.5 cups of fluids
 
    * Coffee  
    * Teas (see Tea Protocol)  
    * Water
 
-2. Limit salt intake / avoid excess salt
+2.  Limit salt intake / avoid excess salt
 
    * Swap salted nuts with unsalted  
    * Buy canned veggies, beans and sauces with no salt added
    * It is typical to add salt while cooking with these products but this allow *you* to control the salt amount
 
-3. Each 30 different plants, seeds and nuts a week / Eat the color spectrum of veggies
+3.  Each 30 different plants, seeds and nuts a week / Eat the color spectrum of veggies
 
    * Not just fruits and veggies that count, you can include grains, nuts, seeds, herbs, and spices, too  
 
-4. Eat Clean - whole foods. Avoid ultra-processed foods, including any food that has more than 5 ingredients
+4.  Eat Clean - whole foods. Avoid ultra-processed foods, including any food that has more than 5 ingredients
 
-5. Eat light dinners (salad), eliminate starchy carbs at night (rice, pasta, potatoes, breads)  
+5.  Eat light dinners (salad), eliminate starchy carbs at night (rice, pasta, potatoes, breads)  
 
    * Eat low-glycemic index foods  
 
-6. Increase fiber intake, generally wholegrains, whole fruits, pulses/beans, nuts and seeds  
+6.  Increase fiber intake, generally wholegrains, whole fruits, pulses/beans, nuts and seeds  
 
    * I swap to Barley for Oatmeal for breakfast in order to reduce Glucose impacts  
 

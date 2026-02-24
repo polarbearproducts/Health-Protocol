@@ -314,6 +314,8 @@ icon = "fontawesome/brands/github"
 
 [project.markdown_extensions.admonition]
 
+[project.markdown_extensions.pymdownx.details]
+
 [project.markdown_extensions.attr_list]
 
 [project.markdown_extensions.def_list]
@@ -334,3 +336,4 @@ icon = "fontawesome/brands/github"
 
 [project.markdown_extensions.toc]
 permalink = true
+toc_depth = 3

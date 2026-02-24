@@ -1,6 +1,6 @@
 # Breakfast Recipes
 
-## Daily Functional Breakfast Bowl
+## High-Fiber Breakfast Bowl
 
 *Optimized for high-fiber, nitric oxide production, and cognitive support.*
 
@@ -57,3 +57,50 @@
 * The fat-to-fiber ratio in this meal is exceptionally high. While the sugar count from the dates and figs looks high on paper, the **20g+ of fiber** and the **acetic acid (ACV)** work together to significantly flatten the glucose curve, preventing the "crash" often associated with high-fruit breakfasts.
 
 * With the amount of sugars, it fuel the uptake of the 5g of Creatine. Creatine is best absorbed when there is a slight insulin response, so keeping 2 dates is actually more beneficial for your longevity protocol than removing them entirely.
+
+## High-Protein Probiotic Bowl
+
+This version of the breakfast shifts the profile significantly from a grain-based bowl above to a protein-centric probiotic bowl. By swapping the cooked barley for a large serving of Greek yogurt, you’ve increased the amino acid density while maintaining the core longevity additives from your previous protocol.
+
+### Ingredients
+
+* **Base:** 1.5 cups Greek Yogurt
+* **Fruit:** 1/4 cup Blueberries, 1/4 cup Blackberries, 2 Deglet Noor Dates
+* **Seeds/Fats:** 1 tbsp Ground Flax Seed, 1 tbsp Hemp Hearts, 1 tbsp Chia Seeds, 1 tbsp Pepitas, 3 Walnuts
+* **Functional Additives:** 1 tsp Beet Powder, 5g Creatine Powder
+* **Topper:** 2 tbsp Kirkland Signature Ancient Grains Probiotic Granola
+
+### Nutritional & Antioxidant Profile
+
+| Metric | Value |
+| :--- | :--- |
+| **Calories** | ~570 kcal |
+| **Protein** | ~40 g |
+| **Total Fat** | 23.5 g |
+| **Fiber** | ~11 g |
+| **Net Carbs** | ~47.5 g |
+| **Sugars (Natural + Added)** | ~30.0 g |
+
+#### 1. Protein & Muscle Preservation
+
+The 1.5 cups of Greek yogurt provide approximately 30–35g of protein (depending on the fat percentage). When combined with the hemp hearts and pepitas, this meal hits a high-leucine threshold that is excellent for muscle protein synthesis, especially when paired with your 5g of creatine.
+
+#### 2. Probiotic & Gut Health
+
+This is a synbiotic meal—it contains both probiotics (yogurt and the Kirkland granola) and the prebiotics (fiber from flax, chia, and berries) that feed them. This is a significant upgrade for your microbiome compared to the barley-only version.
+
+#### 3. Antioxidant Density
+
+While the berry portions are halved from the fiber bowl, the variety remains high. You are still receiving a steady dose of anthocyanins and ellagic acid. The beet powder continues to serve as your primary source of dietary nitrates for nitric oxide production.
+
+#### 4. Potential Contradictions & Considerations
+
+Satiety Shift: Without the soluble fiber (beta-glucan) from the barley, you may find the fullness from this meal doesn't last as long, even though the protein is higher.
+
+#### 5. Granola Additives
+
+The Kirkland Ancient Grains granola contains added sugars (cane sugar/molasses). While 2 tablespoons is a small amount, it does add a "fast" sugar that the previous barley-based meal lacked.
+
+#### 6. Creatine Texture
+
+In a yogurt-heavy base, creatine can sometimes feel gritty. Ensure you stir it thoroughly into the yogurt's liquid (whey) to help it dissolve.

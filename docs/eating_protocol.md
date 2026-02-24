@@ -82,21 +82,25 @@
 
 ### 9. Limit
 
-* sweets
-* one exception is high content coco powder 80% or more chocolate, but limit to 1 oz  
-* dairy / cheese  
-  * exception greek yogurt or goat cheeses which can be weekly  
-* crackers  
-* condiments / sauces  
-* salad dressings (Make your own EVOO, Vinegar, Mustard)  
-* canned veggies (change to no-salt)
-* canned beans (use dried if no-salt canned are not available)
-* canned sauces (tomato, pasta, etc) (or get no-salt added)  
-* pickles  
-* breads  
-  * Breads high in fiber maybe an exception, dark rye and sourdough rye
+* Sweets
+  * one exception is high content coco powder 80% or more chocolate, but limit to 1 oz
+* Dairy
+  * Dairy fits in the limit category, limit overall to 2 servings per day
+  * Servings: 1 cup Greek yogurt, 1.5 oz cheese
+  * The majority of this amount is taken up by the sacrificial cheese (1 oz) in the tea protocol
+  * Most websites promote 'non-fat' dairy versions, I believe this is an error as it is a throwback to 'all fat is bad' which got us into the over-carb diets we have today. Back when the MD study was being performed 'fat-free' dairy didn't exist.
+* Crackers  
+* Condiments / sauces  
+* Salad dressings (Make your own EVOO, Vinegar, Mustard)  
+* Canned veggies (or change to no-salt)
+* Canned beans (or use dried if no-salt canned are not available)
+* Canned sauces (tomato, pasta, etc) (or get no-salt added)  
+* Pickles  
+* Breads  
 
-### 10. Avoid foods - these are bad for heart health (I’ve limited these to no more than once a month, typically a celebration or social event)  
+### 10. Avoid Foods
+
+These are bad for heart health, I’ve limited these to no more than once a month; however, in practice it is less than once a quarter.  
 
 * red meat/beef  
 * pork  
@@ -158,45 +162,60 @@
   * Pistachios  
   * Sunflower seeds  
 
-### 12. By the numbers, eat
+### 12. By the numbers
 
 * Daily Average Macro: 37% Fat, 43% Carbs, 20% Protein  
 * Shoot for 140-160 g protein per day while strength training (1.4-1.6 gram protein for each KG of body weight)  
   * no more than 30 g per day should come from protein powder  
-  * strive to contain 700–3000 **mg** of leucine  
+  * strive to contain 700–3000 mg of leucine  
   * A high-protein meal is one that is rich in protein, typically providing at least 30 grams of protein per serving,  
-    * [https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8)  
-  * No more than 9 teaspoons (36 grams or 150 calories) of added sugar per day  
-    * 1 tsp honey = 5 g / 15 c  
-    * 1 tsp maple syrup = 13 g / 53 c  
-* 25 grams or more of soluble fiber a day decreases your LDL cholesterol.   
+* No more than 9 teaspoons (36 grams or 150 calories) of added sugar per day
+  * Does not include sugars naturally found in whole fruits  
+  * 1 tsp honey = 5 g / 15 c  
+  * 1 tsp maple syrup = 13 g / 53 c  
+* 25 grams or more of soluble fiber a day decreases your LDL cholesterol.
   * African Diet 90 grams total soluble / non-soluble, so higher could be better  
-  * Articles state that 25-29 g per day could be beneficial   
+  * Articles state that 25-29 g per day could be beneficial
 * Less than 10% of calories from saturated fats (AHA says 6%)  
   * 1 g fat = 9 calories  
   * < 14 g fat for AHA  
   * < 21 g fat for US RDA  
 * Move towards a 10-hour eating window per day  
-  * Try for 5955mg potassium per day (1:3 Na:CL), other foods that are rich in potassium:  
-    * nuts  
-    * poultry  
-    * wild rice (~~brown rice no longer qualifies~~)  
-    * unprocessed wheats  
-    * bran cereal  
+* Try for 5955mg potassium per day (1:3 Na:CL), other foods that are rich in potassium:  
+  * nuts  
+  * poultry  
+  * wild rice
+  * ~~brown rice - no longer qualifies~~  
+  * unprocessed wheats  
+  * bran cereal  
 
 ### 13. Daily Supplements
 
-* At least 15 ml/3 tsp of Apple Cider Vinegar per day  
+These are the daily supplements taken, there are two categories
+
+>> Avoid iron supplements unless recommended by physician
+
+* Supplement for a deficiency
+* Supplement for potential health benefits
+
+#### Deficiency Supplements
+
+These are not recommended unless tests show a deficiency. The following are examples of previously determined deficiency through blood testing.
+
+* B12 supplement (2000 mcg)
+* Iodine supplement (325 mcg)
+
+#### Potential Health Benefits
+
+* At least 15 ml/3 tsp of vinegar per day  
   * Some recommendations include 1 tablespoon before each meal  
-  * Or alternatively 1 Tablespoon within 20 minutes of a meal or high-carb meal
-  * If drinking diluted or straight ACV, rinse with water to avoid tooth damage  
+  * Or alternatively 1 Tablespoon of Apple Cider Vinegar within 20 minutes of a meal or high-carb meal
+  * If drinking diluted or straight vinegar, rinse with water to avoid tooth damage  
 * Creatine  
   * Promotes strong muscles  
   * 5 G (1 scoop) per day  
-  * No loading protocol  
-* Avoid iron supplements unless recommended by Dr.  
+  * No loading protocol
 * B12 supplement (2000 mcg)
-* D supplement (5000 IU) 
+* D supplement (5000 IU)
 * Vitamin K2, (MK4 1000 mcg, MK7 180 mcg from MenaQ7®)
-* Iodine supplement (325 mcg)
 * Aged Garlic Extract (1000 mg)

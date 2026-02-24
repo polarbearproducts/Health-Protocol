@@ -48,7 +48,11 @@ nav = [
    { "Home" = "index.md" },
    { "Eating Protocol" = "eating_protocol.md" },
    { "Tea Protocol" = "tea_v2.md" },
-   { "Recipe Collection" = "recipe_collection.md" },
+   { "Sample Recipes" = [
+    "recipes/breakfast.md",
+    "recipes/lunch.md",
+    "recipes/dinner.md"
+    ]},
    { "Exercise Protocol" = "exercise_protocol.md" },
    { "Appendix" = "ref.md" },
 ]
@@ -173,7 +177,7 @@ features = [
     # Turn on this feature to expand all collapsible sections in the
     # navigation sidebar by default.
     # https://zensical.org/docs/setup/navigation/#navigation-expansion
-    # "navigation.expand",
+    "navigation.expand",
 
     # This feature turns on navigation elements in the footer that allow the
     # user to navigate to a next or previous page.
@@ -214,7 +218,7 @@ features = [
     # When sections are enabled, top-level sections are rendered as groups in
     # the sidebar for viewports above 1220px, but remain as-is on mobile.
     # https://zensical.org/docs/setup/navigation/#navigation-sections
-    "navigation.sections",
+    #"navigation.sections",
 
     # When tabs are enabled, top-level sections are rendered in a menu layer
     # below the header for viewports above 1220px, but remain as-is on mobile.
@@ -245,12 +249,12 @@ features = [
     # When anchor following for the table of contents is enabled, the sidebar
     # is automatically scrolled so that the active anchor is always visible.
     # https://zensical.org/docs/setup/navigation/#anchor-following
-    # "toc.follow",
+    "toc.follow",
 
     # When navigation integration for the table of contents is enabled, it is
     # always rendered as part of the navigation sidebar on the left.
     # https://zensical.org/docs/setup/navigation/#navigation-integration
-    #"toc.integrate",
+    "toc.integrate",
 ]
 
 # ----------------------------------------------------------------------------

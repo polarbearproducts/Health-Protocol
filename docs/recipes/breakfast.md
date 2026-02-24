@@ -1,6 +1,4 @@
-# 2026 Longevity & Cardiovascular Protocol
-
-This document outlines the structured nutritional and supplemental strategy for the **2026 Longevity Protocol**, focusing on cardiovascular health, glycemic control, and optimized nutrient synergy.
+# Breakfast Recipes
 
 ## 1. Daily Functional Breakfast Bowl
 

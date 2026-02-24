@@ -1,0 +1,8 @@
+mkdocs
+mkdocs-enumerate-headings-plugin
+mkdocs-git-authors-plugin
+mkdocs-git-revision-date-localized-plugin
+mkdocs-material
+mkdocs-table-reader-plugin
+mkdocs-toggle-sidebar-plugin
+pymdown-extensions

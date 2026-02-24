@@ -11,6 +11,10 @@ nav:
     - Home: index.md
     - Eating Protocol: eating_protocol.md
     - Tea Protocol: tea_v2.md
+    - Recipes:
+      - Breakfast: breakfast.md
+      - Lunch: lunch.md
+      - Dinner: dinner.md
     - Exercise Protocol: exercise_protocol.md
     - Appendix: ref.md
 

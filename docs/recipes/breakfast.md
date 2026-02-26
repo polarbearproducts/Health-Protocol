@@ -2,7 +2,7 @@
 
 ## 1. High-Fiber Breakfast Bowl
 
-*Optimized for high-fiber, nitric oxide production, and cognitive support.*
+Optimized for high-fiber, nitric oxide production, and cognitive support.
 
 ### **Ingredients**
 
@@ -26,7 +26,7 @@
 
 #### The Carbohydrate Base (~60% of volume)
 
-* **Barley Flakes & Water:** ~110 calories, 23g carbs, 6g fiber. Barley is a "slow-burn" carb with a lower glycemic index than most grains.
+* **Barley Flakes & Water:** ~110 calories, 23g carbs, 6g fiber. Barley is a slow-burn carb with a lower glycemic index than most grains.
 * **Dried Fruit (Dates & Figs):** This is the primary sugar source. 2 Deglet Noor dates and 2 figs contribute ~130–190 calories and nearly 30g of sugar.
 * **Berries:** 1 cup total adds ~75 calories and 7g of fiber, along with a high concentration of anthocyanins.
 
@@ -99,13 +99,13 @@ Satiety Shift: Without the soluble fiber (beta-glucan) from the barley, you may 
 
 #### Granola Additives
 
-The Kirkland Ancient Grains granola contains added sugars (cane sugar/molasses). While 2 tablespoons is a small amount, it does add a "fast" sugar that the previous barley-based meal lacked.
+The Kirkland Ancient Grains granola contains added sugars (cane sugar/molasses). While 2 tablespoons is a small amount, it does add a fast sugar that the previous barley-based meal lacked.
 
 #### Creatine Texture
 
 In a yogurt-heavy base, creatine can sometimes feel gritty. Ensure you stir it thoroughly into the yogurt's liquid (whey) to help it dissolve. See Creatine Protocol for more consumption methods.
 
-## 3. The Savory "Mess" Bowl
+## 3. Mess Bowl
 
 This meal is designed for maximum glycemic stability, diverse phytonutrient intake, and endothelial support.
 
@@ -115,7 +115,7 @@ This meal is designed for maximum glycemic stability, diverse phytonutrient inta
 * **Proteins:** 1 egg (over easy, grilled in EVOO at low heat), 4 tbsp Beans (Pinto, Black, or Navy), 1 oz Goat Cheese.
 * **Vegetables:** 2 cups Spring Lettuce Mix (wilted), 1/3 cup Red Cabbage (wilted), 1/3 cup Red Onion (diced and grilled), 8-10 Cherry Tomatoes (slowly stewed in EVOO).
 * **Healthy Fats:** 1/2 medium-sized Haas Avocado, 1 tbsp Pepitas, 2 tbsp Whole Greek Yogurt.
-* **The "Kick":** 1 whole Jalapeño (grilled in EVOO), 2 tbsp Low Salt Salsa, Flatiron Pepper Co. spice mix (Chipotle/Ancho/Habanero).
+* **The Kick:** 1 whole Jalapeño (grilled in EVOO), 2 tbsp Low Salt Salsa, Flatiron Pepper Co. spice mix (Chipotle/Ancho/Habanero).
 * **Acids:** 2 tbsp Apple Cider Vinegar (ACV), squeeze of 1/2 Lemon.
 
 ### Nutritional Profile
@@ -139,8 +139,8 @@ This meal is designed for maximum glycemic stability, diverse phytonutrient inta
 
 ### Contradictions & Considerations
 
-* **Creatine Challenge:** Mixing 5g of Creatine into "The Mess" is harder than a yogurt bowl. Creatine is flavorless but can be gritty, see the Creatine Protocol below for options.
+* **Creatine Challenge:** Mixing 5g of Creatine into the Mess is harder than a yogurt bowl. Creatine is flavorless but can be gritty, see the Creatine Protocol for options.
 
 * **Sodium Management:** Even with low-salt beans, the combination of salsa and goat cheese can add up. Ensure your salsa is truly low-sodium and use the Ezekiel Low Sodium bread to keep your cardiovascular protocol on track.
 
-* **Digestive Complexity:** This meal has a lot of moving parts (lectins in beans, sulfur in cabbage, heat in peppers). If you feel "heavy" after this, it may be the high fat-to-protein ratio.
+* **Digestive Complexity:** This meal has a lot of moving parts (lectins in beans, sulfur in cabbage, heat in peppers). If you feel heavy after this, it may be the high fat-to-protein ratio.

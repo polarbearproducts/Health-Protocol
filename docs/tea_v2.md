@@ -1,13 +1,11 @@
-# Tea for Functional Cardiovascular Benefits
+# Functional Cardiovascular Benefits
 
 !!! Note
     The majority of the following advice was AI generated, while this has been partially validated, some inaccuracies may still exist.
 
 The following protocol is part of an overall longevity protocol which contains a dual-track focus: Functional (how the system performs in the moment) and Structural (how the system resists aging over decades).
 
-The functional track, tea protocol, potentially provides a method to provide  cardiovascular benefits positioned to address high blood pressure.
-
-To maximize results, it is important to use the correct **botanical parts** of the plant. Studies are very specific about this because the active compounds (like anthocyanins or oleuropein) are concentrated in particular areas.
+This chapter outlines the functional track aka "tea protocol", which provides a method reduce blood pressure.  To maximize results, it is important to use the correct **botanical parts** of the plant. Studies are very specific about this because the active compounds (like anthocyanins or oleuropein) are concentrated in particular areas.
 
 ## 7-Day Heart-Healthy Tea Rotation
 

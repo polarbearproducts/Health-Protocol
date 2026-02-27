@@ -1,4 +1,4 @@
-# Structural Reversal Power Stack
+# Structural Cardio Reversal
 
 To target structural plaque reversal—specifically the hardening and narrowing of arteries—clinical research looks for substances that go beyond simple relaxation and actively address **calcification** and **plaque volume**.
 

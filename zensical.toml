@@ -47,8 +47,8 @@ Copyright &copy; 2026 Eat Fogo
 nav = [
    { "Home" = "index.md" },
    { "Eating Protocol" = "eating_protocol.md" },
-   { "Functional: Tea Protocol" = "tea_v2.md" },
-   { "Structural: Suppliments" = "structural.md" },
+   { "Functional Cardio Benefits" = "tea_v2.md" },
+   { "Structural Cardio Reversal" = "structural.md" },
    { "Sample Recipes" = [
     "recipes/breakfast.md",
     "recipes/lunch.md",

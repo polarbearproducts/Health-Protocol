@@ -47,7 +47,8 @@ Copyright &copy; 2026 Eat Fogo
 nav = [
    { "Home" = "index.md" },
    { "Eating Protocol" = "eating_protocol.md" },
-   { "Tea Protocol" = "tea_v2.md" },
+   { "Functional: Tea Protocol" = "tea_v2.md" },
+   { "Structural: Suppliments" = "structural.md" },
    { "Sample Recipes" = [
     "recipes/breakfast.md",
     "recipes/lunch.md",
